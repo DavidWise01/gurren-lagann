@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Spiral Power",
+  "universe": "GUR · Spiral Power (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦Spiral Power:GUR:769aaa⟧",
+  "carbon": "spiral-power.carbon.tiff (TIFF)",
+  "silicon": "spiral-power.silicon.png (PNG)",
+  "seal_sha256": "ccb1e10f0398f7f8880d307e328a7e631a231474f7e9b8c30616b40f99e630fc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

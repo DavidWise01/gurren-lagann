@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Team Dai-Gurren",
+  "universe": "GUR · Team Dai-Gurren (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Team Dai-Gurren:GUR:4ea117⟧",
+  "carbon": "team-dai-gurren.carbon.tiff (TIFF)",
+  "silicon": "team-dai-gurren.silicon.png (PNG)",
+  "seal_sha256": "88f7475cd0cff399c4511f23f38bbc0b950c55ace7e107a3c9c0667a135a6212",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

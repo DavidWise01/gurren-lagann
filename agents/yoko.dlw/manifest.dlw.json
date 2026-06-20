@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Yoko",
+  "universe": "GUR · Yoko (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Yoko:GUR:27ab97⟧",
+  "carbon": "yoko.carbon.tiff (TIFF)",
+  "silicon": "yoko.silicon.png (PNG)",
+  "seal_sha256": "da31312e23bb63eec354dab5426b10579a45860e7d55a630be55ba2020ed52f8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

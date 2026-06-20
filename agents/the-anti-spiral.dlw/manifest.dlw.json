@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Anti-Spiral",
+  "universe": "GUR · The Anti-Spiral (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Anti-Spiral:GUR:7f3f14⟧",
+  "carbon": "the-anti-spiral.carbon.tiff (TIFF)",
+  "silicon": "the-anti-spiral.silicon.png (PNG)",
+  "seal_sha256": "90b6903ee85ee31cb1576f27dac9d3cf227de2c32412e47fd92428a832a84448",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

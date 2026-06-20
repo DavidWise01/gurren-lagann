@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "simon",
+    "name": "Simon",
+    "epithet": "the digger who rises · natural",
+    "emergence": "natural",
+    "moniker": "⟦Simon:GUR:1111ad⟧"
+  },
+  {
+    "slug": "kamina",
+    "name": "Kamina",
+    "epithet": "the brother who lights the fuse · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Kamina:GUR:96ef94⟧"
+  },
+  {
+    "slug": "yoko",
+    "name": "Yoko",
+    "epithet": "the sharpshooter · natural",
+    "emergence": "natural",
+    "moniker": "⟦Yoko:GUR:27ab97⟧"
+  },
+  {
+    "slug": "lagann",
+    "name": "Gurren Lagann",
+    "epithet": "the combining mech · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Gurren Lagann:GUR:6302be⟧"
+  },
+  {
+    "slug": "lordgenome",
+    "name": "Lordgenome",
+    "epithet": "the Spiral King · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Lordgenome:GUR:93f799⟧"
+  },
+  {
+    "slug": "nia",
+    "name": "Nia",
+    "epithet": "the antispiral's daughter · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Nia:GUR:e62448⟧"
+  },
+  {
+    "slug": "the-anti-spiral",
+    "name": "The Anti-Spiral",
+    "epithet": "the fear of growth · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Anti-Spiral:GUR:7f3f14⟧"
+  },
+  {
+    "slug": "spiral-power",
+    "name": "Spiral Power",
+    "epithet": "will, made energy · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Spiral Power:GUR:769aaa⟧"
+  },
+  {
+    "slug": "team-dai-gurren",
+    "name": "Team Dai-Gurren",
+    "epithet": "the found family · natural",
+    "emergence": "natural",
+    "moniker": "⟦Team Dai-Gurren:GUR:4ea117⟧"
+  }
+]

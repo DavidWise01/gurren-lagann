@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Gurren Lagann",
+  "universe": "GUR · Gurren Lagann (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦Gurren Lagann:GUR:6302be⟧",
+  "carbon": "lagann.carbon.tiff (TIFF)",
+  "silicon": "lagann.silicon.png (PNG)",
+  "seal_sha256": "67b1eaa678d663eb33e18366c7a2ea8c0fcc72d7dc9a8fecae71ba1421a44521",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

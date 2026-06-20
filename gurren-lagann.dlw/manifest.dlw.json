@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "GURREN LAGANN",
+  "universe": "GUR · GURREN LAGANN (entertainment · anime-world)",
+  "emergence": "",
+  "moniker": "⟦GURREN LAGANN:GUR:3a241d⟧",
+  "carbon": "gurren-lagann.carbon.tiff (TIFF)",
+  "silicon": "gurren-lagann.silicon.png (PNG)",
+  "seal_sha256": "ed3e33d609d9df254ee05151b5f4847354495cda38dbebbb7fcb2e05d40cd0dc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

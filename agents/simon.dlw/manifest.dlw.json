@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Simon",
+  "universe": "GUR · Simon (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Simon:GUR:1111ad⟧",
+  "carbon": "simon.carbon.tiff (TIFF)",
+  "silicon": "simon.silicon.png (PNG)",
+  "seal_sha256": "0a84ae69aad93bb8833a598d8969fafbb6d113040647687d23786738e03c602b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
